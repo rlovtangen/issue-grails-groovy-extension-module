@@ -3,3 +3,5 @@
 Extension module implemented according to http://mrhaki.blogspot.no/2013/01/groovy-goodness-adding-extra-methods.html
 
 Works from controller and from integration test, but not from unit test.
+
+Reported as https://github.com/grails/grails-core/issues/9870
