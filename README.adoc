@@ -1,0 +1,5 @@
+= Issue when using Groovy extension module from Grails unit test
+
+Extension module implemented according to http://mrhaki.blogspot.no/2013/01/groovy-goodness-adding-extra-methods.html
+
+Works from controller and from integration test, but not from unit test.
